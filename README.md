@@ -5,10 +5,10 @@
 **Commit** - Is a method of recording changes made to one's files or repository. It is able to locally keep track of the changes made to a file, when they were made, and who made them. Each commit is like a snapshot of the changes made to the repository.
 **Fetch** - Is a command which locally downloads commits and files from a repository onto one's own device. Once the fetch command is performed, changes made to the repository are not reflected on the already downloaded commits and files. This command is useful when trying to see new changes and updates made by other people.
 **GIT** - Is a version control system used to keep track of different versions of sourcecode. It is a critical tool in software developement, and is able to keep track of code and files being worked on collaboratively. 
-**Github** - 
-**Merge** - 
-**Merge Conflict** - 
-**Push** - 
-**Pull** - 
-**Remote** - 
-**Repository** - 
+**Github** - Is an online platform that is used to store, view, and colloborate on Git repositories and code. Github is able to host these repositories for programmers, and allow them to upload them onto the cloud.
+**Merge** - Is a command that combines the changes made from one branch and those of another branch in the same repository. Merge ultimately combines several sequences of commits into a singular pieced-together history of the branches.
+**Merge Conflict** - Is when people make different edits to the same line or file in a repository. This can also occur if a file is deleted while another programmer makes changes to it. A merge conflict has to be fixed before it is possible to merge edits from one branch to another.
+**Push** - Is used to upload local files and code to remote platforms. Push is a command used to update the remote repository with the changes and commits made in the local repository.
+**Pull** - Is used to retrieve and process files from a remote repository, and use them to immediately update the local repository. This allows the remote content to immediately be merged and integrated with the local files and code. 
+**Remote** - Is an off-site server that stores sourcecode for a project. A remote URL represents the location of where exactly the user's code is being stored. A remote repository allows partners to exchange their modifications.
+**Repository** - Is the shell of Github's purpose. It is a location to store code, files, and any modifications or changes made to any of the files. This is where sourcecode is managed, and dependent on the private or public setting, people are able to collaborate through it.
